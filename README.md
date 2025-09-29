@@ -2,8 +2,8 @@
 
 Breadth First Search Traversal of a Graph
 
-NAME: SUBHASHINI S
-REGISTER: 212224210022
+NAME : SUBHASHINI
+REGISTER : 212224210022
 
 
 AIM: 
